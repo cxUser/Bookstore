@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="31529A75-83C7-4D54-BA73-E5C4E7A0DE13/f:Class1.cs" caret="0" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/d:App_Code/f:Web.config" caret="1051" scrollPosition="0|0" />
+      <File id="31529A75-83C7-4D54-BA73-E5C4E7A0DE13/f:22.cs" caret="148" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:BookDetail.cs" caret="13554" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:CardTypesGrid.aspx" caret="0" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:CardTypesGrid.cs" caret="4695" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:MembersGrid.cs" caret="7121" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:EditorialCatGrid.cs" caret="5899" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/d:App_Code/f:CCUtility.cs" caret="3536" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:AdminBooks.cs" caret="8284" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:AdminBooks.aspx" caret="0" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:MembersInfo.cs" caret="6668" scrollPosition="0|292" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:Login.aspx" caret="0" scrollPosition="0|0" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/f:Login.cs" caret="3174" scrollPosition="0|131" />
+      <File id="BF320094-76B5-4A28-AA84-0643626A28B9/d:App_Code/d:temp/d:New Folder/f:CCUtility.cs" caret="2196" scrollPosition="0|97" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Book_Store">
+</Property><Property Name="Solution File" Value="C:\Sources\BookStore.NET\BookStore.NET_17584lines\Book_Store.sln">
+</Property><Property Name="User Options File" Value="C:\Sources\BookStore.NET\BookStore.NET_17584lines\Book_Store.suo">
+</Property><Property Name="Date" Value="יום שלישי 20 דצמבר 2011">
+</Property><Property Name="Time" Value="14:00">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Book_Store.sln" Description="File successfully backed up as C:\Sources\BookStore.NET\BookStore.NET_17584lines\Backup\Book_Store.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Book_Store.suo" Description="File successfully backed up as C:\Sources\BookStore.NET\BookStore.NET_17584lines\Backup\Book_Store.suo">
+</Event><Event ErrorLevel="1" Project="BookStore" Source="..\BookStore.NET_17584lines" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="Book_Store.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Book_Store.sln" Description="Converted">
+</Event></UpgradeLog>
